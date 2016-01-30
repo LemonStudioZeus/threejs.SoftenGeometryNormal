@@ -5,5 +5,6 @@
      *  Nate Robins
      *  nate@pobox.com
      *  http://www.pobox.com/~nate
+     *  http://titan.cs.ukzn.ac.za/opengl/opengl-d5/trant.sgi.com/opengl/tutorials/examples/smooth/smooth.html
      
  angle - maximum angle (in degrees) to smooth across
